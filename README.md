@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RomanPM85
 - 👀 I’m interested in machine learning, web development, automation of business processes, analytics.
-- 🌱 I’m currently learning in Geekbrains educational Portal
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mamchiy@yandex.ru
 
